@@ -384,6 +384,21 @@ header  a.btn {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
+article.games {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.game {
+    border: 1px #E6E6E6 solid;
+    color: black;
+    display: inline-block;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 footer {
     background-color: #EDEDED;
     color: #C1C1C1;
