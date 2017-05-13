@@ -1,15 +1,11 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
-
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Programming Director: Samuel H. de Almeida
+Site: samuelalmeida13@yahoo.com
+Twitter.com: OSamuelHAlmeida
+Location: Leme, Brazil
 
-# THANKS
+# SITE
 
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Standards: CSS3, HTML5
+    Components: Apache Server Configs, jQuery, Modernizr, Normalize.css
