@@ -383,10 +383,3 @@ header  a.btn {
 .bg-dark {
     background-color: rgba(0, 0, 0, 0.5);
 }
-
-footer {
-    background-color: #EDEDED;
-    color: #C1C1C1;
-    font-size: 12pt;
-    padding: 20px;
-}
